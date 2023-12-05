@@ -1,0 +1,14 @@
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\obj\Debug\net8.0\Tssk_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\obj\Debug\net8.0\Tssk_02.AssemblyInfoInputs.cache
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\obj\Debug\net8.0\Tssk_02.AssemblyInfo.cs
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\obj\Debug\net8.0\Tssk_02.csproj.CoreCompileInputs.cache
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\bin\Debug\net8.0\Tssk_02.exe
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\bin\Debug\net8.0\Tssk_02.deps.json
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\bin\Debug\net8.0\Tssk_02.runtimeconfig.json
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\bin\Debug\net8.0\Tssk_02.dll
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\bin\Debug\net8.0\Tssk_02.pdb
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\obj\Debug\net8.0\Tssk_02.dll
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\obj\Debug\net8.0\refint\Tssk_02.dll
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\obj\Debug\net8.0\Tssk_02.pdb
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\obj\Debug\net8.0\Tssk_02.genruntimeconfig.cache
+D:\Павел\Desktop\GeekBrains\Home_work\Massivi_u_stroku\Tssk_02\obj\Debug\net8.0\ref\Tssk_02.dll
